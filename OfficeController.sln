@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OfficeController", "OfficeController\OfficeController.csproj", "{180CADF9-080D-444A-B198-C117509D1598}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OfficeControllerTests", "OfficeControllerTests\OfficeControllerTests.csproj", "{50A655BA-81EB-45FF-B9CC-B6FAF39ADD6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{180CADF9-080D-444A-B198-C117509D1598}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{180CADF9-080D-444A-B198-C117509D1598}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{180CADF9-080D-444A-B198-C117509D1598}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{180CADF9-080D-444A-B198-C117509D1598}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50A655BA-81EB-45FF-B9CC-B6FAF39ADD6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50A655BA-81EB-45FF-B9CC-B6FAF39ADD6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50A655BA-81EB-45FF-B9CC-B6FAF39ADD6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50A655BA-81EB-45FF-B9CC-B6FAF39ADD6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A74AAEAE-A350-4F4F-A18E-E7872022F5C2}
+	EndGlobalSection
+EndGlobal
